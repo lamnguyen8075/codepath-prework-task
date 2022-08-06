@@ -1,5 +1,5 @@
-# codepath-prework-task
-# Android Prework - *GREETING APPLICATION*
+# CodePath - Prework
+# *GREETING APPLICATION* - *Kotlin*
 
 Submitted by: **LAM NGUYEN**
 
